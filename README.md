@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm umesh raut, a Full Stack Developer 🚀 from India, currently, I am completing my final sem in Computer Science I mostly work with React, NodeJS.
+Hi, I'm umesh raut, a Full Stack Developer 🚀 from India, I have Completed My Graduation in Computer Engineering, had worked on MERN stack, Currently Working as a Front-end Engineer.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" />
   
