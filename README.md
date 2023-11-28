@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm umesh raut, a frontend engineer with fullstack chops. I thrive on creating seamless user experiences using React / Angular. From pixel-perfect UIs to scalable backend solutions, I've got it covered. Let's build something amazing! 💻✨.
+Hi, I'm umesh raut, 🚀 Frontend engineer with fullstack flair. Expert in React and Angular. Passionate about crafting seamless user experiences. Let's code something awesome! 💻✨
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" />
   
