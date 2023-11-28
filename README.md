@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm umesh raut, a Full Stack Developer 🚀 from India, I have Completed My Graduation in Computer Engineering, had worked on MERN stack, Currently Working as a Front-end Engineer.
+Hi, I'm umesh raut, a frontend engineer with fullstack chops. I thrive on creating seamless user experiences using React / Angular. From pixel-perfect UIs to scalable backend solutions, I've got it covered. Let's build something amazing! 💻✨.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" />
   
@@ -21,7 +21,9 @@ Hi, I'm umesh raut, a Full Stack Developer 🚀 from India, I have Completed My 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
 
